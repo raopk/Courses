@@ -2,6 +2,8 @@
 
 #### Instructors: Google
 
+![Image description](Google IT Automation with Python/assets/68747470733a2f2f692e696d6775722e636f6d2f576442367453622e706e67.png)
+
 This new six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
 
 Knowing how to write code to solve problems and automate solutions is a crucial skill for anybody in IT. Python, in particular, is now the most in-demand programming language by employers.
