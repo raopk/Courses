@@ -1,4 +1,4 @@
-# Google - Google IT Automation with Python Professional Certificate
+# Google IT Automation with Python Professional Certificate
 
 ![google](https://github.com/RAYOPOKU/Courses/blob/master/68747470733a2f2f692e696d6775722e636f6d2f576442367453622e706e67.png)
 #### Instructors: Google
