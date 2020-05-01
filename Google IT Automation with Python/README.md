@@ -2,7 +2,7 @@
 
 #### Instructors: Google
 
-![Image GOOGLE](Google IT Automation with Python/assets/68747470733a2f2f692e696d6775722e636f6d2f576442367453622e706e67.png)
+![Image GOOGLE](https://github.com/RAYOPOKU/Courses/blob/master/Google%20IT%20Automation%20with%20Python/assets/68747470733a2f2f692e696d6775722e636f6d2f576442367453622e706e67.png)
 
 This new six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
 
