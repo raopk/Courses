@@ -2,7 +2,7 @@
 
 This repository is my backyard for codes and materials from my personal online studies. You are more than welcome to look around and ask questions. *"No man is living repository of knowledge"*
 
-* [FreeCodeCamp](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp)
+* [FreeCodeCamp - Responsive Web Design](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp)
     1. [Landing Page](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Landing%20Page)
     2. [Survey Form](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Survey%20Form)
     3. [Technical Document](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Technical%20Document)
