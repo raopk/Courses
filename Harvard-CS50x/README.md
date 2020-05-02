@@ -1,4 +1,7 @@
 ## cs50 ##
+
+![image](https://github.com/RAYOPOKU/Courses/blob/master/Harvard-CS50x/assets/Screen%20Shot%202020-05-02%20at%202.10.44%20AM.png)
+
 Problem sets and projects for Harvard CS50: Introduction to Computer Science
 
 To complete the following psets, I studied all of the CS50 lectures, walkthroughs, sections, and shorts on edX.
