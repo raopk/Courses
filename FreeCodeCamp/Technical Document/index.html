@@ -1,0 +1,240 @@
+<!Doctype html>
+<html>
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+	<!--<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>-->
+	<nav id="navbar">
+		<header></header>
+    <img id="header-img" src="https://i1.wp.com/procodetech.com/wp-content/uploads/2019/04/python.png?zoom=2&resize=150%2C150&ssl=1" alt="python">
+
+		<ul>
+
+			<li><a class="nav-link" href="#What_is_Python?">What is Python? </a></li>
+      
+
+			<!-- nav-link break 1 -->
+
+			<li><a class="nav-link" href="#Hello,_World!">Hello, World!</a></li>
+
+			<!-- nav-link break 2 -->
+
+			<li><a class="nav-link" href="#Comments">Comments</a></li>
+
+			<!-- nav-link break 3 -->
+
+			<li><a class="nav-link" href="#Variables">Variables</a></li>
+
+			<!-- nav-link break 4 -->
+
+			<li><a class="nav-link" href="#Numbers">Numbers</a></li>
+
+			<!-- nav-link break 5 -->
+
+			<li><a class="nav-link" href="#String">String</a></li>
+
+			<!-- nav-link break 6 -->
+
+			<li><a class="nav-link" href="#If_..._Else">If ... Else</a></li>
+
+			<!-- nav-link break 7 -->
+			<li><a class="nav-link" href="#Reference">Reference</a></li>
+		</ul>
+	</nav>
+
+	<!-- Main starts -->
+
+	<main id="main-doc">
+
+		<section class="main-section" id="What_is_Python?">
+
+      <header>What is Python?</header>
+			<p>Python is a popular programming language. It was created by Guido van Rossum,
+				and released in 1991.</p>
+
+			<p>It is used for:</p>
+
+			<ul>
+				<li>web development (server-side), </li>
+				<li>software development, </li>
+				<li>mathematics,</li>
+				<li>system scripting.</li>
+			</ul>
+
+			<h4>Why Python?</h4>
+			<ul>
+				<li>Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).</li>
+				<li>Python has a simple syntax similar to the English language.</li>
+				<li>Python has syntax that allows developers to write programs with fewer lines than some      other
+					programming languages.</li>
+				<li>Python runs on an interpreter system, meaning that code can be executed as soon as it is written.
+					This means that prototyping can be very quick.</li>
+				<li>Python can be treated in a procedural way, an object-orientated way or a functional way.</li>
+			</ul>
+
+		</section>
+
+		<!-- section break 1 -->
+
+		<section class="main-section" id="Hello,_World!">
+			<header>Hello, World!</header>
+			<p>Here is a sample line of code that can be executed in Python: </p>
+			<h4>Example</h4>
+			<code><pre>print("Hello, World!")</pre></code>
+			<p>You can just as easily store a string as a variable and then print it to stdout: </p>
+			<h4>Example</h4>
+			<code><pre>my_string = "Hello, World!"<br>print(my_string)</pre></code>
+			<p>The above code will print <code>Hello, World!</code> on your screen.</p>
+		</section>
+
+		<!-- section break 2 -->
+
+		<section class="main-section" id="Comments">
+			<header>Comments</header>
+			<p>Comments can be used to explain Python code.</p>
+			<p>Comments can be used to make the code more readable.</p>
+			<p>Comments can be used to prevent execution when testing code.</p>
+			<h3>Creating a Comment</h3>
+			<p>Comments starts with a <code>#</code>, and Python will
+				ignore them:</p>
+			<h4>Example</h4>
+			<code><pre>#This is a Comment<br>"Hello, World!"</pre></code>
+			<p>Comments can be placed at the end of a line, and Python will ignore the rest
+				of the line:</p>
+			<h4>Example</h4>
+			<code><pre>print("Hello, World!") #This is a comment</pre></code>
+			<h3>Multi Line Comments</h3>
+			<p>Python does not really have a syntax for multi line comments.</p>
+			<p>To add a multiline comment you could insert a <code>#</code> for each line:</p>
+			<h4>Example</h4>
+			<code><pre>#This is a comment<br>#written in<br>#more than just one line<br>print("Hello, World!")</pre></code>
+		</section>
+
+		<!-- section break 3 -->
+
+		<section class="main-section" id="Variables">
+			<header>Variables</header>
+			<h3>Creating Variables</h3>
+			<p>Variables are containers for storing data values.</p>
+			<p>Unlike other programming languages, Python has no command for declaring a variable.</p>
+			<p>A variable is created the moment you first assign a value to it.</p>
+			<h4>Example</h4>
+			<code><pre>x = 5<br>y = "John"<br>print(x)<br>print(y)</pre></code>
+			<p>Variables do not need to be declared with any particular type and can even change type after they have
+				been set.</p>
+			<h4>Example</h4>
+			<code><pre>x = 4 # x is of type int<br>x = "Sally" # x is now of type str<br>print(x)</pre></code>
+			<p>String variables can be declared either by using single or double quotes.</p>
+
+			<h3>Variable Names</h3>
+
+			<p>A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume).
+				Rules for Python variables:</p>
+			<ul>
+				<li>A variable name must start with a letter or the underscore character</li>
+				<li>A variable name cannot start with a number</li>
+				<li>A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )</li>
+				<li>Variable names are case-sensitive (age, Age and AGE are three different variables)</li>
+			</ul>
+		</section>
+
+		<!-- section break 4 -->
+
+		<section class="main-section" id="Numbers">
+			<header>Numbers</header>
+			<p>There are three numeric types in Python:</p>
+			<ul>
+				<li>int</li>
+				<li>float</li>
+				<li>complex</li>
+			</ul>
+			<p>Variables of numeric types are created when you assign a value to them:</p>
+			<h4>Example</h4>
+			<code><pre>x = 1    # int<br>y = 2.8  # float<br>z = 1j   # complex</pre></code>
+			<p>To verify the type of any object in Python, use the <code>type()</code> function:</p>
+			<h4>Example</h4>
+			<code><pre>print(type(x))<br>print(type(y))<br>print(type(z))</pre></code>
+			<h3>Int</h3>
+			<p>Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.</p>
+			<h4>Example</h4>
+			<code><pre>x = 1<br>y = 35656222554887711<br>z = -3255522</pre></code>
+			<h3>Float</h3>
+			<p>Float, or "floating point number" is a number, positive or negative, containing one or more decimals.</p>
+			<h4>Example</h4>
+			<code><pre>x = 1.10<br>y = 1.0<br>z = -35.59<br></pre></code>
+			<h3>Complex</h3>
+			<p>Complex numbers are written with a "j" as the imaginary part:</p>
+			<h4>Example</h4>
+			<code><pre>x = 35e3<br>y = 12E4<br>z = -87.7e100<br></pre></code>
+		</section>
+
+		<!-- section break 5 -->
+
+		<section class="main-section" id="String">
+			<header>String</header>
+			<h3>Strings Litrals</h3>
+			<p>String literals in python are surrounded by either single quotation marks, or double quotation marks.</p>
+			<p><code>'hello'</code> is the same as <code>"hello"</code>.</p>
+			<p>You can display a string literal with the <code>print()</pre></code> function:</p>
+			<h4>Example</h4>
+			<code><pre>print("Hello")<br>print('Hello')</pre></code>
+			<h3>Assign String to a Variable</h3>
+			<p>Assigning a string to a variable is done with the variable name followed by an equal sign and the string:
+			</p>
+			<h4>Example</h4>
+			<code><pre>a = "Hello"<br>print(a)</pre></code>
+			<h3>Multiline Strings</h3>
+			<p>You can assign a multiline string to a variable by using three quotes:</p>
+			<h4>Example</h4>
+			<p>You can use three double quotes:</p>
+			<code><pre>a = """Lorem ipsum dolor sit amet,<br>ut labore et dolore magna aliqua."""<br>print(a)</pre></code>
+			<h4>Example</h4>
+			<p>Or three single quotes:</p>
+			<code><pre>a = '''Lorem ipsum dolor sit amet,<br>ut labore et dolore magna aliqua.'''<br>print(a)</pre></code>
+
+		</section>
+
+		<!-- section break 6 -->
+
+		<section class="main-section" id="If_..._Else">
+			<header>If ... Else</header>
+			<h3>Python Conditions and If statements</h3>
+			<p>Python supports the usual logical conditions from mathematics:</p>
+			<ul>
+				<li>Equals: a == b</li>
+				<li>Not Equals: a != b</li>
+				<li>Less than: a &lt; b</li>
+				<li>Less than or equal to: a &lt;= b</li>
+				<li>Greater than: a &gt; b</li>
+				<li>Greater than or equal to: a &gt;= b</li>
+			</ul>
+			<p>These conditions can be used in several ways, most commonly in "if statements" and loops.</p>
+			<p>An "if statement" is written by using the <code>if</code> keyword.</p>
+			<h4>Example</h4>
+			<p>If statement:</p>
+			<code><pre>a = 33<br>b = 200<br>if b > a:<br>print("b is greater than a")</pre></code>
+			<p>In this example we use two variables, a and b,
+				which are used as part of the if statement to test whether b is greater
+				than a.
+				As a is 33, and b is 200,
+				we know that 200 is greater than 33, and so we print to screen that "b is greater than a".</p>
+		</section>
+
+		<!-- section break 7 -->
+
+		<section class="main-section" id="Reference">
+			<header>Reference</header>
+			<p>For more on Python documentation visit <a href="https://www.w3schools.com/python/default.asp"
+					target="_blank">w3schools</a> </p>
+		</section>
+
+	</main>
+</body>
+
+</html>
+
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
