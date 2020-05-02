@@ -7,4 +7,4 @@
 1. [Landing Page](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Landing%20Page) 
 2. [Survey Form](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Survey%20Form)
 3. [Technical Document](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Technical%20Document)
-4. [Tribute Page](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Tribute%20Page) - ::computer::
+4. [Tribute Page](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Tribute%20Page) - :computer:
