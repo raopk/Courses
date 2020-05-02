@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <a heref =  "blink.html"> click here </a>
+        <title>Learning Computers With Ray</title>
+                 <script>
+                 function greet()
+                 {
+                     let name = document.querySelector('#name').value;
+                     if (name === '')
+                      {
+                          name = 'world';
+                      }
+                      /*alert('Hello, ' + name + '!');*/
+                      document.querySelector('#result').innerHTML = 'Hello, ' + name + '!';
+                 }
+                 </script>
+    </head>
+    <body >
+        <h1 class='title' >Hello, world! </h1>
+
+        <div class="alert alert-primary" role="alert">
+                     This is my alert!
+        </div>
+
+        <p>  Hello, This is my homepage! </p>
+
+        <h2 class='title'> Subsection 1 </h2>
+
+        <p class ='green'> This is some text </p>
+
+        <h2 class='title'> Subsection 2 </h2>
+
+         <p class ='green'> This is some more text </p>
+
+         <form onsubmit="greet(); return false;">
+            <input type = "text" id ="name">
+            <input type = "submit" >
+         </form>
+         <div id= 'result'>
+             Hello!
+         </div>
+
+         <table>
+            </tr class="header">
+              <th> cell 1 </th>
+              <th> cell 2 </th>
+              <th> cell 3 </th>
+            </tr>
+            <tr>
+                <td> cell 4 </td>
+                <td> cell 5 </td>
+                <td> cell 6 </td>
+             </tr>
+                 <td> cell 7 </td>
+                 <td> cell 8 </td>
+                 <td> cell 9 </td>
+             </tr>
+         </table>
+
+    </body>
+</html>

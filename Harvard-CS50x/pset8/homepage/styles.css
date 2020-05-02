@@ -1,0 +1,30 @@
+.title
+ {
+text-align: center;
+ color: blue;
+font-family: sans-serif;
+}
+.title2
+ {
+text-align: left;
+ color: black;
+font-family: sans-serif;
+}
+.green
+{
+color: green;
+}
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td
+{
+    border: 1px solid black;
+    padding: 5px ;
+}
+.header
+{
+    background-color: blue;
+}
