@@ -1,4 +1,4 @@
-# [Problem Set 7: Python](https://cs50.harvard.edu/x/2020/psets/6/) #
+# [Problem Set 7: SQL](https://cs50.harvard.edu/x/2020/psets/7/) #
 
 ## Objectives ##
 * Apply familiar techniques in unfamiliar contexts.
@@ -7,12 +7,7 @@
 ## Projects ##
 Implement either of the below in Python
 
-1.[Hello](https://cs50.harvard.edu/x/2020/psets/6/hello/)
+1. Write SQL queries to answer questions about a database of [Movies](https://cs50.harvard.edu/x/2020/psets/7/movies/)
 
-2.[Mario](https://cs50.harvard.edu/x/2020/psets/6/mario/less/)
+2. Implement [Houses](https://cs50.harvard.edu/x/2020/psets/7/houses/), a program to import student data into a database, and then produce class rosters.
 
-3.[Cash](https://cs50.harvard.edu/x/2020/psets/6/cash/)
-
-4.[DNA](https://cs50.harvard.edu/x/2020/psets/6/dna/)
-
-5.[Readability](https://cs50.harvard.edu/x/2020/psets/6/readability/)
