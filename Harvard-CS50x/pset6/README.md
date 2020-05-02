@@ -5,11 +5,15 @@
 * Transition from Python to web programming.
 
 ## Projects ##
-Implement either of the below exactly as specified but in Python:
+Implement either of the below in Python
 
-[Mario](https://cs50.harvard.edu/x/2020/psets/6/), less comfortable, in a file called mario.py in pset6/.
+1.[Hello](https://cs50.harvard.edu/x/2020/psets/6/hello/)
 
-Implement either of the below exactly as specified but in Python:
+2.[Mario](https://cs50.harvard.edu/x/2020/psets/6/mario/less/)
 
-[Caesar], less comfortable, in a file called caesar.py in pset6/.
+3.[Cash](https://cs50.harvard.edu/x/2020/psets/6/cash/)
+
+4.[DNA](https://cs50.harvard.edu/x/2020/psets/6/dna/)
+
+5.[Readability](https://cs50.harvard.edu/x/2020/psets/6/readability/)
 
