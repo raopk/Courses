@@ -3,7 +3,7 @@
 ## Objectives ##
 * Get comfortable with Linux.
 * Start thinking more carefully.
-* Solve some problems in C.
+* Solve some problems in C programming.
 
 ## Projects ##
 * Implement [mario.c](https://cs50.harvard.edu/x/2020/psets/1/mario/less/), a program that prints Mario's half-pyramid of hashes of user-inputted height.
