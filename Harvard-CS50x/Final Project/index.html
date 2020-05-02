@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+		<meta charset="utf-8">
+		<title>Coronavirus Safety Tips</title>
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/default.css" id="theme">
+		<style>
+			.chart rect {
+			  fill: #63b6db;
+			}
+
+			.chart text {
+			  fill: white;
+			  font: 10px sans-serif;
+			  text-anchor: end;
+			}
+
+			text {
+			  font: 10px sans-serif;
+			}
+		</style>
+</head>
+<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h1>Coronavirus</h1>
+					<h2>Safety tips for You</h2>
+					<img src="Unknown.jpg" alt="corona virus">
+
+					<p> </p>
+					<a href="https://www.redcross.org">source: The redcross</a></a>
+
+				</section>
+
+				<section id="sect2">
+					<h2>Help Slow The Spread of COVID-19</h2>
+					<ul>
+					<li><b>Stay home</b>
+					if you can and avoid any non-essential travel. Avoid social gatherings of more than 10 people.<br>
+					</li>
+					<li><b>Practice social distancing</b>
+					by keeping at least 6 feet — about two arm lengths — away from others if you must go out in public.<br>
+					</section>
+
+					<section id="sect2">
+					</li>
+					<li><b>Wash your hands often</b>
+					with soap and water for at least 20 seconds.<br>
+					</li>
+					<li><b>Avoid touching your eyes, nose and mouth</b>
+					with unwashed hands.<br>
+					</li>
+					<li><b>Clean and disinfect household surfaces</b>
+					daily and high-touch surfaces frequently throughout the day.<br>
+
+					</section>
+
+					<section id="sect2">
+					</li>
+					<li><b>Cover your coughs and sneezes</b>.
+					Cover your mouth when sneezing with a tissue or into your elbow.</li>
+
+					Follow <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html" target="_blank">CDC guidance</a>.<br>
+					</ul>
+
+					<p>Fill the form below, to receive daily coronavirus and safty update</p><br>
+        			<form action="/register" method="post">
+            		<input type="text" name="name" placeholder="Name">
+            		<input type="text" name="email" placeholder="Email Address">
+            		<input type="submit">
+        			</form>
+
+
+					<svg class="chart"></svg>
+						<svg class="chart"></svg>
+					<svg class="bubleCharts"></svg>
+				</section>
+			</div>
+		</div>
+
+		<script src="js/reveal.min.js"></script>
+		<script>
+			Reveal.initialize();
+		</script>
+
+		<script src="js/d3.min.js"></script>
+		<script type="text/javascript">
+			//------ code to show D3 Bar Chart on First Slide-------
+
+			//---Code below will show Bubble Charts on the secon Slide -------
+
+			// Returns a flattened hierarchy containing all leaf nodes under the root.
+			function classes(root) {
+			  var classes = [];
+			  function recurse(name, node) {
+			    if (node.children) node.children.forEach(function(child) { recurse(node.name, child); });
+			    else classes.push({packageName: name, className: node.name, value: node.size});
+			  }
+			  recurse(null, root);
+			  return {children: classes};
+			}
+
+			d3.select(self.frameElement).style("height", diameter + "px");
+		</script>
+</body>
+</html>
