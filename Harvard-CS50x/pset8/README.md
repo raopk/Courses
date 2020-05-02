@@ -1,4 +1,4 @@
-# [Problem Set 8: Finance Homepage $](https://cs50.harvard.edu/x/2020/tracks/web/) #
+# [Problem Set 8: C$50 Finance, a web app](https://cs50.harvard.edu/x/2020/tracks/web/) #
 
 ## Objectives ##
 * Apply familiar techniques in unfamiliar contexts.
