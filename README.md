@@ -5,4 +5,4 @@ The quiz and programming homework is belong to coursera and edx and solutions to
 
 * [Google IT Automation with Python Professional Certificate](https://github.com/RAYOPOKU/Courses/blob/master/Google-IT-Automation-with-Python)
 
-1. [Google - Crush Course on Python](https://github.com/RAYOPOKU/Courses/blob/master/Google-IT-Automation-with-Python/Google--Crash-Course-on-Python)
+1. [Google - Crash Course on Python](https://github.com/RAYOPOKU/Courses/blob/master/Google-IT-Automation-with-Python/Google--Crash-Course-on-Python)
