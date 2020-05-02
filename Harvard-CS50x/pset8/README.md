@@ -1,4 +1,4 @@
-# [Problem Set 8: SQL](https://cs50.harvard.edu/x/2020/psets/8/) #
+# [Problem Set 8: Finance Homepage $](https://cs50.harvard.edu/x/2020/psets/8/) #
 
 ## Objectives ##
 * Apply familiar techniques in unfamiliar contexts.
