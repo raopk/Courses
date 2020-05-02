@@ -1,0 +1,1 @@
+test your implementation of speller, we’ve also provided you with a whole bunch of texts, among them the script from Austin Powers: International Man of Mystery, a sound bite from Ralph Wiggum, three million bytes from Tolstoy, some excepts from Machiavelli and Shakespeare, the entirety of the King James V Bible, and more.
