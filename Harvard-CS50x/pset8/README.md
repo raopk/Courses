@@ -1,4 +1,4 @@
-# [Problem Set 7: SQL](https://cs50.harvard.edu/x/2020/psets/7/) #
+# [Problem Set 8: SQL](https://cs50.harvard.edu/x/2020/psets/8/) #
 
 ## Objectives ##
 * Apply familiar techniques in unfamiliar contexts.
