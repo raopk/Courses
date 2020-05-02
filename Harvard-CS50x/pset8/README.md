@@ -1,4 +1,4 @@
-# [Problem Set 8: Finance Homepage $](https://cs50.harvard.edu/x/2020/psets/8/) #
+# [Problem Set 8: Finance Homepage $](https://cs50.harvard.edu/x/2020/tracks/web/) #
 
 ## Objectives ##
 * Apply familiar techniques in unfamiliar contexts.
@@ -7,6 +7,6 @@
 ## Projects ##
 Implement either of the below in Python
 
-1. Write SQL queries to answer questions about a database of [Movies](https://cs50.harvard.edu/x/2020/psets/7/movies/).
+1.After watching Introduction, HTTP, HTML, CSS, JavaScript, and Homepage, submit [Homepage](https://cs50.harvard.edu/x/2020/tracks/web/homepage/).
 
-2. Implement [Houses](https://cs50.harvard.edu/x/2020/psets/7/houses/), a program to import student data into a database, and then produce class rosters.
+2. After watching Flask, Databases, and Finance, submit [Finance](https://cs50.harvard.edu/x/2020/tracks/web/finance/)
