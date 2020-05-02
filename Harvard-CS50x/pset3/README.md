@@ -6,4 +6,4 @@
 
 ## Projects ##
 * Implement [plurality.c](https://cs50.harvard.edu/x/2020/psets/3/plurality/), a program that runs a plurality election
-* Implement [cash.c](https://cs50.harvard.edu/x/2020/psets/3/runoff/), a program that runs a runoff election.
+* Implement [runoff.c](https://cs50.harvard.edu/x/2020/psets/3/runoff/), a program that runs a runoff election.
