@@ -1,6 +1,6 @@
 # Coursera, edX & Online Projects/Assignments
 
-This repository is my backyard for codes and materials from my personal online studies. You are more than welcome to look around and ask questions. *"No man is living repository of knowledge"*
+This repository is my backyard for codes and materials from my personal online studies. You are more than welcome to look around and ask questions. *"No man is a living repository of knowledge"*
 
 * [FreeCodeCamp - Responsive Web Design](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp)
     1. [Landing Page](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Landing%20Page)
