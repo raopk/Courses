@@ -2,6 +2,8 @@
 
 This repository is my backyard for codes and materials from my personal online studies. You are more than welcome to look around and ask questions. *"No man is a living repository of knowledge"*
 
+* [Harvard cs50](https://github.com/RAYOPOKU/Courses/tree/master/Harvard-CS50x)
+
 * [FreeCodeCamp - Responsive Web Design](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp)
     1. [Landing Page](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Landing%20Page)
     2. [Survey Form](https://github.com/RAYOPOKU/Courses/tree/master/FreeCodeCamp/Survey%20Form)
