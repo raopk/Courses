@@ -6,7 +6,7 @@
 
 ## Projects ##
 This projects requires you to build a program that could spell check a words in a file against a hash table. 
-
+You can test your implementation of speller with any excepts from other text ie Shakespeare, KJV Bible, and more.
 ## Results ##
 
 ![image](https://github.com/RAYOPOKU/Courses/blob/master/Harvard-CS50x/assets/Screen%20Shot%202020-05-01%20at%2011.38.03%20PM.png)
