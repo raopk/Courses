@@ -22,4 +22,4 @@ This repository is my backyard for codes and materials from my personal online s
   
   5. [Configuration Management and the Cloud](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Configuration%20Management%20and%20the%20Cloud)
   
-  6. [Automating Real-World Tasks with Python]()
+  6. [Automating Real-World Tasks with Python](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Automation%20Real-World%20Tasks%20with%20Python)
