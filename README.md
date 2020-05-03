@@ -16,10 +16,10 @@ This repository is my backyard for codes and materials from my personal online s
   
   2. [Using Python to Interact with the Operating System](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Using%20Python%20to%20Interact%20with%20the%20Operating%20System):thumbsup:
   
-  3. Introduction to Git and Github
+  3. [Introduction to Git and Github](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Introduction%20to%20git%20and%20github)
   
-  4. Troubleshooting and Debugging Techniques
+  4. [Troubleshooting and Debugging Techniques]()
   
-  5. Configuration Management and the Cloud
+  5. [Configuration Management and the Cloud]()
   
-  6. Automating Real-World Tasks with Python
+  6. [Automating Real-World Tasks with Python]()
