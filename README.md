@@ -15,3 +15,11 @@ This repository is my backyard for codes and materials from my personal online s
   1. [Google - Crash Course on Python](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Google%20-%20Crash%20Course%20on%20Python) :thumbsup:
   
   2. [Using Python to Interact with the Operating System](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Using%20Python%20to%20Interact%20with%20the%20Operating%20System):thumbsup:
+  
+  3. Introduction to Git and Github
+  
+  4. Troubleshooting and Debugging Techniques
+  
+  5. Configuration Management and the Cloud
+  
+  6. Automating Real-World Tasks with Python
