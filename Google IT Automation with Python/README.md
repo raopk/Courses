@@ -17,4 +17,4 @@ This certificate can be completed in about 6 months and is designed to prepare y
 3. [Introduction to Git and Github](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Introduction%20to%20git%20and%20github)
 4. [Troubleshooting and Debugging Techniques](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Troubleshooting%20and%20Debugging%20Techniques)
 5. [Configuration Management and the Cloud](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Configuration%20Management%20and%20the%20Cloud)
-6. Automating Real-World Tasks with Python
+6. [Automating Real-World Tasks with Python](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Automation%20Real-World%20Tasks%20with%20Python)
