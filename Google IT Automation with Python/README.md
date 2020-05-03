@@ -14,7 +14,7 @@ This certificate can be completed in about 6 months and is designed to prepare y
 ### Table of Contents 
 1. [Crash Course on Python](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Google%20-%20Crash%20Course%20on%20Python)
 2. [Using Python to Interact with the Operating System](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Using%20Python%20to%20Interact%20with%20the%20Operating%20System)
-3. Introduction to Git and Github
+3. [Introduction to Git and Github](https://github.com/RAYOPOKU/Courses/tree/master/Google%20IT%20Automation%20with%20Python/Introduction%20to%20git%20and%20github)
 4. Troubleshooting and Debugging Techniques
 5. Configuration Management and the Cloud
 6. Automating Real-World Tasks with Python
