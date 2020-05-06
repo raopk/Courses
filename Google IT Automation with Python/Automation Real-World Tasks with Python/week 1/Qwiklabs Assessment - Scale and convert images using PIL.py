@@ -11,19 +11,21 @@ You'll use lots of methods from PIL to complete this exercise.
 You can refer to Pillow for detailed explanations and have a look at the tutorials to help you build the script and complete the task.
 """
 
+  #GNU nano 2.7.4                           #File: images.py                                     
+
 #!/usr/bin/env python3
 import os
 from PIL import Image
 #base = r'C:\Users\sataw\Desktop\Picture'
 #save_direction = r"C:\Users\sataw\Desktop\Picture\convert_jpg\ "
-base = '/home/student-04-8b8eae5c143c/images/'
-save_direction = "/home/student-04-8b8eae5c143c/images/opt/icons/"
+base = '/home/student-03-6efdab463fb1/images/'
+save_direction = "/home/student-03-6efdab463fb1/images/opt/icons/"
 for path in os.listdir(base):
      try:
           with Image.open(os.path.join(base, path)) as image:
                cover = image.resize((128,128))
                cover_rgb = cover.convert('RGB')
-               cover_rgb.save("/opt/icons/{}".format(path), "JPEG")  # save not used the /home/ direction
+               cover_rgb.save("/opt/icons/{}".format(path), "JPEG")  # save not used the /home$
      except:
           pass
 
