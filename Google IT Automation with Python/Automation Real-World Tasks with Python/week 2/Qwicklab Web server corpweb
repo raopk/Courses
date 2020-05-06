@@ -19,7 +19,7 @@ import requests
 path = "/data/feedback"
 #path = r"C:\Users\sataw\Desktop\Text" Test in my computer
 params = dict()
-url = "http://34.71.45.130/feedback/"
+url = "http://35.226.196.2/feedback/"
 
 for file in os.listdir(path):
      numberline = 0
